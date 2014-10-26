@@ -46,4 +46,4 @@ Principally the workflow is:
 7. Write this tidy dataset to a tab-delimited file called tidy.txt, which can also be found in this repository  
 
 ### Tidy Data (tidy.txt)
-The resulting data set after running the R script "run-analysis.R"
+The resulting data set after running the R script "run-analysis.R"  

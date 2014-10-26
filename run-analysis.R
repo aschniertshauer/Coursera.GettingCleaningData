@@ -76,5 +76,5 @@ tidy<-selection %>%
 #
 # -------------------------------------------------------------------------------------------
 # Save result
-write.table(tidy, "tidy.txt", sep="\t",row.name=F)
+write.table(tidy, "tidy.txt",row.name=F)
 #

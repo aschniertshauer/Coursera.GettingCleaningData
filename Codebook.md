@@ -20,21 +20,23 @@ According to the task of this project
 4. the labels of the data set have been changed to carry descriptive variable names   
 5. from the data set in step 4, a second, independent tidy data set has been craeted with the average of each variable for each activity and each subject  
 
+**Important:** Please note that the folder "Inertial Signals" has not been used as mean or standard deviation (worked out from the column names - the features) are not included in this preliminary data and this data set can therefore go.
+
 ### Output Data Set
   
 The resulting tidy data set includes following fields
  
 **Activity**  
-a string variable with following possible values: "LAYING", "SITTING", "STANDING", "WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS".
+A string variable with following possible values: "LAYING", "SITTING", "STANDING", "WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS".
 
 
 **Subject**  
-an integer variable with a value from 1 to 30 denoting the ID of the volunteer who has done the observation  
+An integer variable with a value from 1 to 30 denoting the ID of the volunteer who has done the observation  
   
 **Measurements**  
-Column 3 to 88 capture the average value of the measurements included in the tidy data set - per activity and subject. These measurments are numeric values, which can be positive or negative.
+Column 3 to 88 capture the average value of the measurements included in the tidy data set - per activity and subject. These measurements are numeric values, which can be positive or negative.
 
-Following table clarifies in detail which measurements have been included in the tidy data set and how they have been renamed.
+Following table clarifies in detail which measurements have been included in the tidy data set and how they have been renamed by the R-script.
 
 
 Feature  |  Feature_Corrected
