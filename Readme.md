@@ -27,7 +27,7 @@ CodeBook.md describes the variables, the data, and any transformations or work t
   
 **Requirements/Preconditions**  
 This script makes use of the packages dplyr and stringr. Therefore these packages must be installed before running the script.
-It has further been developed on a Mac (which will make it necessary to adapt the file paths used to a other environments (e.g. Windows).  
+It has further been developed on a Mac (which will make it necessary to adapt the file paths used to other environments (e.g. Windows).  
   
 Additionally you have to make sure before running the script    
 1.	That you have downloaded and extracted the UCI HAR dataset     

@@ -1,5 +1,4 @@
 # Coursera "Getting and Cleaning Data" - Course Project
-# 
 # Author: Alexander S.
 # Date: 2014-10-25
 # Version: 1.0
