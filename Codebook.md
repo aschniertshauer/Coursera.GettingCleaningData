@@ -126,4 +126,6 @@ angle(tBodyGyroMean,gravityMean)	|	AngleTimeBodyGyroMeanGravityMean
 angle(tBodyGyroJerkMean,gravityMean)	|	AngleTimeBodyGyroJerkMeanGravityMean
 angle(X,gravityMean)	|	AngleXGravityMean
 angle(Y,gravityMean)	|	AngleYGravityMean
-angle(Z,gravityMean)	|	AngleZGravityMean
+angle(Z,gravityMean)	|	AngleZGravityMean  
+  
+  

@@ -47,3 +47,5 @@ Principally the workflow is:
 
 ### Tidy Data (tidy.txt)
 The resulting data set after running the R script "run-analysis.R"  
+  
+  
