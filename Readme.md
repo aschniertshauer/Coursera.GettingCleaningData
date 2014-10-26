@@ -23,7 +23,7 @@ Task of the project is to create one R script called run_analysis.R that
 ### Codebook (Codebook.md)    
 CodeBook.md describes the variables, the data, and any transformations or work that was performed to clean up the data.
 
-### Script (run-analysis.R)  
+### Script (run_analysis.R)  
   
 **Requirements/Preconditions**  
 This script makes use of the packages dplyr and stringr. Therefore these packages must be installed before running the script.
